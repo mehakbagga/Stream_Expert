@@ -13,19 +13,19 @@ See the the short videos below as an example of what user can do in this applica
 ![Create Stream Demo](https://raw.githubusercontent.com/Khushnaz/StreamExpert/master/streams/images_gif/create.gif)
 
 ### Editing a Stream
-![Edit Stream Demo](/streams/images_gif/edit.gif)
+![Edit Stream Demo](https://raw.githubusercontent.com/Khushnaz/StreamExpert/master/streams/images_gif/edit.gif)
 
 ### Deleting a Stream
-![Delete Stream Demo](/streams/images_gif/Delete.gif)
+![Delete Stream Demo](https://raw.githubusercontent.com/Khushnaz/StreamExpert/master/streams/images_gif/Delete.gif)
 
 ### Streaming
-![Streaming Demo](/streams/images_gif/Streaming.gif)
+![Streaming Demo](https://raw.githubusercontent.com/Khushnaz/StreamExpert/master/streams/images_gif/Streaming.gif)
 
 ### Google Sign In
-![Google Sign In Demo](/streams/images_gif/SignIn.gif)
+![Google Sign In Demo](https://raw.githubusercontent.com/Khushnaz/StreamExpert/master/streams/images_gif/SignIn.gif)
 
 ### Google Sign Out
-![Google Sign Out Demo](/streams/images_gif/signout.gif)
+![Google Sign Out Demo](https://raw.githubusercontent.com/Khushnaz/StreamExpert/master/streams/images_gif/signout.gif)
 
 ### Installation 
 Clone the repository onto your local machine then follow the following steps:
