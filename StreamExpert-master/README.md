@@ -10,7 +10,7 @@ StreamExpert is a clone of famous streaming platform called Twitch.tv! This is a
 See the the short videos below as an example of what user can do in this application: 
 ----------
 ### Creating a Stream
-![Create Stream Demo](/streams/images_gif/create.gif)
+![Create Stream Demo](https://raw.githubusercontent.com/Khushnaz/StreamExpert/master/streams/images_gif/create.gif)
 
 ### Editing a Stream
 ![Edit Stream Demo](/streams/images_gif/edit.gif)
