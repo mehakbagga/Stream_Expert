@@ -1,6 +1,6 @@
 # StreamExpert
 ----------
-### Author: Divanshu Sharma
+### Author: Mehakpreet Kaur
 
 ### About
 ----------
